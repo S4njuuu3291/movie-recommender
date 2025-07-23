@@ -7,4 +7,4 @@ scikit-learn
 streamlit
 tensorflow==2.19.0
 scikit-surprise
-lightfm==1.16
+lightfm==1.18
