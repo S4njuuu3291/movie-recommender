@@ -1,12 +1,11 @@
 Cython>=0.29
-pandas==2.3.0
-numpy==1.26.0
-matplotlib==3.10.3
+pandas==2.2.2
+numpy==1.25.2
+matplotlib==3.7.4
 seaborn==0.13.2
-scikit-learn==1.6.1
+scikit-learn==1.5.0
 streamlit==1.47.0
 tensorflow==2.19.0
+scipy==1.9.3
 scikit-surprise==1.1.4
 lightfm==1.16
-sentence-transformers==2.7.0
-tqdm
