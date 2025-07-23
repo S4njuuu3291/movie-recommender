@@ -7,4 +7,3 @@ scikit-learn==1.5.0
 streamlit==1.47.0
 tensorflow==2.19.0
 scikit-surprise==1.1.4
-lightfm==1.16
