@@ -1,3 +1,4 @@
+Cython>=0.29
 pandas==2.3.0
 numpy==1.26.0
 matplotlib==3.10.3
@@ -6,7 +7,6 @@ scikit-learn==1.6.1
 streamlit==1.47.0
 tensorflow==2.19.0
 scikit-surprise==1.1.4
-lightfm>=1.16,<1.18
+lightfm==1.16
 sentence-transformers==2.7.0
 tqdm
-Cython>=0.29
